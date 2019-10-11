@@ -1,0 +1,29 @@
+{
+  "defaultProject": "buyersclub",
+  "projects": {
+    "buyersclub": {
+      "timezones": [
+        "Europe/Rome"
+      ],
+      "currencies": [
+        "EUR"
+      ],
+      "interface": {
+        "autoOpen": true,
+        "port": 3001
+      },
+      "languages": {
+        "en-US": "English(US)",
+		"it-IT": "Italiano(IT)"
+      },
+      "defaultLanguage": "en-US",
+      "programmingLanguage": "javascript",
+      "store": "localizations/",
+      "output": "localizations/output",
+      "source": [
+		  "lib/**",
+		  "templates/**"
+	  ]
+    }
+  }
+}
