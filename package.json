@@ -16,7 +16,7 @@
   },
   "dependencies": {},
   "devDependencies": {
-    "node-eve": "^2.5.8"
+    "node-eve": "^2.5.10"
   },
   "browserify-shim": {},
   "eve-language": "es6",
